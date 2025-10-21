@@ -483,6 +483,14 @@
               "description": "Codex 是 OpenAI 推出的一系列人工智能编码工具，通过将任务委托给强大的云端和本地编码代理，帮助开发人员提升工作效率。",
               "icon": "/assets/favicon_1760422969029.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1761028712308_84o4z94f8",
+              "title": "IT视频",
+              "href": "https://itxt.top/",
+              "description": "访问 itxt.top",
+              "icon": "/assets/favicon_1761028685819.png",
+              "enabled": true
             }
           ]
         },
