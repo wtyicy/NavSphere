@@ -4,10 +4,10 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_CLIENT_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
+GITHUB_CLIENT_ID = "Ov23liD21dTD4s6c0x1q"
+GITHUB_OWNER = "wtyicy"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
-NEXT_PUBLIC_API_URL="https://dh.leti.ltd"
+NEXTAUTH_URL = "https://navsphere-a1j.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://navsphere-a1j.pages.dev/"
 
